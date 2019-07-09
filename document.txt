@@ -1,0 +1,508 @@
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2001.xml 
+validando XML. Numero en lista = 1 
+iml2001.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2001.xml 
+documento valido 
+number of files: 5 
+Next file: iml2005.xml 
+iml2005.xml 
+Next file: iml1996.xml 
+iml1996.xml 
+Next file: iml2007.xml 
+iml2007.xml 
+Next file: iml2003.xml 
+iml2003.xml 
+Next file: iml2006.xml 
+iml2006.xml 
+iml2001.xml 
+iml2005.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2005.xml 
+La etiqueta final para el tipo de elemento "Anio" debe finalizar en un delimitador '>'. 
+iml1996.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1996.xml 
+cvc-complex-type.2.3: El elemento 'Premios' no debe tener ningún carácter [secundarios], porque el tipo de contenido del tipo es sólo de elemento. 
+cvc-complex-type.2.3: El elemento 'Version' no debe tener ningún carácter [secundarios], porque el tipo de contenido del tipo es sólo de elemento. 
+cvc-complex-type.2.3: El elemento 'Disco' no debe tener ningún carácter [secundarios], porque el tipo de contenido del tipo es sólo de elemento. 
+cvc-complex-type.2.3: El elemento 'Pais' no debe tener ningún carácter [secundarios], porque el tipo de contenido del tipo es sólo de elemento. 
+cvc-complex-type.2.3: El elemento 'Songs' no debe tener ningún carácter [secundarios], porque el tipo de contenido del tipo es sólo de elemento. 
+iml2007.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2007.xml 
+cvc-enumeration-valid: El valor 'Indy' no es de faceta válida con respecto a la enumeración '[Pop, Rock, Country, Balada]'. Debe ser un valor de la enumeración. 
+cvc-type.3.1.3: El valor 'Indy' del elemento 'Genero' no es válido. 
+iml2003.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2003.xml 
+documento valido 
+number of files: 6 
+Next file: iml2012.xml 
+iml2012.xml 
+Next file: iml2002.xml 
+iml2002.xml 
+Next file: iml2013.xml 
+iml2013.xml 
+Next file: iml2015.xml 
+iml2015.xml 
+Next file: iml2014.xml 
+iml2014.xml 
+Next file: iml2004.xml 
+iml2004.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2006.xml 
+cvc-complex-type.2.4.a: Se ha encontrado contenido no válido a partir del elemento 'Pais'. Se esperaba uno de '{Anio}'. 
+iml2012.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2012.xml 
+cvc-pattern-valid: El valor '2004-001-001-ab' no es de faceta válida con respecto al patrón '[0-9][0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9]' para el tipo '#AnonType_idcCancionDiscoPaisSongs'. 
+cvc-attribute.3: El valor '2004-001-001-ab' del atributo 'idc' del elemento 'Cancion' no es válido con respecto a su tipo, 'null'. 
+iml2002.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2002.xml 
+documento valido 
+number of files: 5 
+Next file: iml2008.xml 
+iml2008.xml 
+Next file: iml2009.xml 
+iml2009.xml 
+Next file: iml2011.xml 
+iml2011.xml 
+Next file: iml2010.xml 
+iml2010.xml 
+Next file: iml2002.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2013.xml 
+cvc-complex-type.2.4.a: Se ha encontrado contenido no válido a partir del elemento 'Premios'. Se esperaba uno de '{Titulo}'. 
+iml2015.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2015.xml 
+cvc-elt.1: No se ha encontrado la declaración del elemento 'Disco'. 
+iml2014.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2014.xml 
+cvc-complex-type.2.3: El elemento 'Disco' no debe tener ningún carácter [secundarios], porque el tipo de contenido del tipo es sólo de elemento. 
+iml2004.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2004.xml 
+documento valido 
+number of files: 12 
+Next file: iml2016.xml 
+iml2016.xml 
+Next file: iml2001.xml 
+Next file: iml1994.xml 
+iml1994.xml 
+Next file: iml2017.xml 
+iml2017.xml 
+Next file: iml2002.xml 
+Next file: iml2018.xml 
+iml2018.xml 
+Next file: iml1990.xml 
+iml1990.xml 
+Next file: iml1995.xml 
+iml1995.xml 
+Next file: iml2020.xml 
+iml2020.xml 
+Next file: iml1993.xml 
+iml1993.xml 
+Next file: iml1992.xml 
+iml1992.xml 
+Next file: iml1991.xml 
+iml1991.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+iml2015.xml 
+iml2014.xml 
+iml2004.xml 
+iml2008.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2008.xml 
+cvc-maxInclusive-valid: El valor '700' no es de faceta válida con respecto a maxInclusive '600' para el tipo '#AnonType_DuracionCancionDiscoPaisSongs'. 
+cvc-type.3.1.3: El valor '700' del elemento 'Duracion' no es válido. 
+iml2009.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2009.xml 
+cvc-enumeration-valid: El valor 'EMY' no es de faceta válida con respecto a la enumeración '[DiscoDeOro, Grammy, LamparaMinera]'. Debe ser un valor de la enumeración. 
+cvc-type.3.1.3: El valor 'EMY' del elemento 'Premio' no es válido. 
+iml2011.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2011.xml 
+cvc-pattern-valid: El valor '2004-01-001' no es de faceta válida con respecto al patrón '[0-9][0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]' para el tipo '#AnonType_iddDiscoPaisSongs'. 
+cvc-attribute.3: El valor '2004-01-001' del atributo 'idd' del elemento 'Disco' no es válido con respecto a su tipo, 'null'. 
+iml2010.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2010.xml 
+documento valido 
+number of files: 1 
+Next file: iml2001.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+iml2015.xml 
+iml2014.xml 
+iml2004.xml 
+iml2008.xml 
+iml2009.xml 
+iml2011.xml 
+iml2010.xml 
+iml2016.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2016.xml 
+cvc-pattern-valid: El valor '34' no es de faceta válida con respecto al patrón '[A-Za-z]{2}' para el tipo 'idioma'. 
+cvc-attribute.3: El valor 'ls 34' del atributo 'langs' del elemento 'Disco' no es válido con respecto a su tipo, 'listaidiomas'. 
+iml1994.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1994.xml 
+documento valido 
+number of files: 1 
+Next file: iml2001.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+iml2015.xml 
+iml2014.xml 
+iml2004.xml 
+iml2008.xml 
+iml2009.xml 
+iml2011.xml 
+iml2010.xml 
+iml2016.xml 
+iml1994.xml 
+iml2017.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2017.xml 
+cvc-pattern-valid: El valor 'der' no es de faceta válida con respecto al patrón '[A-Za-z]{2}' para el tipo 'idioma'. 
+cvc-attribute.3: El valor 'es it der' del atributo 'langs' del elemento 'Disco' no es válido con respecto a su tipo, 'listaidiomas'. 
+iml2018.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2018.xml 
+cvc-complex-type.2.4.b: El contenido del elemento 'Songs' no está completo. Se esperaba uno de '{Pais}'. 
+iml1990.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1990.xml 
+documento valido 
+number of files: 1 
+Next file: iml2001.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+iml2015.xml 
+iml2014.xml 
+iml2004.xml 
+iml2008.xml 
+iml2009.xml 
+iml2011.xml 
+iml2010.xml 
+iml2016.xml 
+iml1994.xml 
+iml2017.xml 
+iml2018.xml 
+iml1990.xml 
+iml1995.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1995.xml 
+documento valido 
+number of files: 1 
+Next file: :: 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+iml2015.xml 
+iml2014.xml 
+iml2004.xml 
+iml2008.xml 
+iml2009.xml 
+iml2011.xml 
+iml2010.xml 
+iml2016.xml 
+iml1994.xml 
+iml2017.xml 
+iml2018.xml 
+iml1990.xml 
+iml1995.xml 
+iml2020.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2020.xml 
+cvc-maxInclusive-valid: El valor '2020' no es de faceta válida con respecto a maxInclusive '2018' para el tipo '#AnonType_AnioSongs'. 
+cvc-type.3.1.3: El valor '2020' del elemento 'Anio' no es válido. 
+iml1993.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1993.xml 
+documento valido 
+number of files: 1 
+Next file: iml2001.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+iml2015.xml 
+iml2014.xml 
+iml2004.xml 
+iml2008.xml 
+iml2009.xml 
+iml2011.xml 
+iml2010.xml 
+iml2016.xml 
+iml1994.xml 
+iml2017.xml 
+iml2018.xml 
+iml1990.xml 
+iml1995.xml 
+iml2020.xml 
+iml1993.xml 
+iml1992.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1992.xml 
+documento valido 
+number of files: 1 
+Next file: iml2001.xml 
+iml2001.xml 
+iml2005.xml 
+iml1996.xml 
+iml2007.xml 
+iml2003.xml 
+iml2006.xml 
+iml2012.xml 
+iml2002.xml 
+iml2013.xml 
+iml2015.xml 
+iml2014.xml 
+iml2004.xml 
+iml2008.xml 
+iml2009.xml 
+iml2011.xml 
+iml2010.xml 
+iml2016.xml 
+iml1994.xml 
+iml2017.xml 
+iml2018.xml 
+iml1990.xml 
+iml1995.xml 
+iml2020.xml 
+iml1993.xml 
+iml1992.xml 
+iml1991.xml 
+entramos aquÃ­ 
+ficheiro a traballar http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1991.xml 
+cvc-complex-type.2.4.b: El contenido del elemento 'Disco' no está completo. Se esperaba uno de '{Cancion}'. 
+22 
+entrando en pantalla2 
+ORDENANDO Canciones 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2001.xml 
+contamos con 7 discos 
+disco 0 
+idiomas escogidos: en fr 
+Born to run 
+[] 
+Thunder Road 
+[Born to run] 
+Night 
+[Born to run, Thunder Road] 
+disco 1 
+idiomas escogidos: en 
+Private dancer 
+[Born to run, Thunder Road, Night] 
+Been Queen 
+[Born to run, Thunder Road, Night, Private dancer] 
+Love Got 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen] 
+disco 2 
+idiomas escogidos: en es 
+Nos sobran los motivos 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got] 
+Que se llama Soledad 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos] 
+Contigo 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad] 
+disco 3 
+idiomas escogidos: es 
+disco 4 
+idiomas escogidos: it 
+disco 5 
+idiomas escogidos: it es en 
+La voce del padrone 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo] 
+Bandiera bianca 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone] 
+Sentimiento nuevo 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca] 
+disco 6 
+idiomas escogidos: it fr 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2003.xml 
+contamos con 6 discos 
+disco 0 
+idiomas escogidos: es fr 
+disco 1 
+idiomas escogidos: es 
+disco 2 
+idiomas escogidos: en es 
+Wrecking Ball 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo] 
+We are alive 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball] 
+American Land 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive] 
+disco 3 
+idiomas escogidos: en 
+Foreign Affair 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land] 
+The Best 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair] 
+Steamy Windows 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best] 
+disco 4 
+idiomas escogidos: it es 
+disco 5 
+idiomas escogidos: it es en 
+Hierro Forjado 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows] 
+Vida en diagonal 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado] 
+Hey Joe 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal] 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2002.xml 
+contamos con 6 discos 
+disco 0 
+idiomas escogidos: it fr 
+disco 1 
+idiomas escogidos: it en 
+Patriots 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe] 
+Venezia-Istambul 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots] 
+Le Aquile 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul] 
+disco 2 
+idiomas escogidos: en it de 
+The river 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile] 
+Jackson Cage 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river] 
+Hungry Heart 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage] 
+disco 3 
+idiomas escogidos: it en fr 
+Wildest dreams 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart] 
+Missing you 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams] 
+Whatever you want 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams, Missing you] 
+disco 4 
+idiomas escogidos: it es 
+disco 5 
+idiomas escogidos: es 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2004.xml 
+contamos con 6 discos 
+disco 0 
+idiomas escogidos: es it de 
+disco 1 
+idiomas escogidos: es it 
+disco 2 
+idiomas escogidos: it es 
+disco 3 
+idiomas escogidos: it fr de 
+disco 4 
+idiomas escogidos: en es 
+Nebraska 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams, Missing you, Whatever you want] 
+Atlantic City 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams, Missing you, Whatever you want, Nebraska] 
+State Trooper 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams, Missing you, Whatever you want, Nebraska, Atlantic City] 
+disco 5 
+idiomas escogidos: en 
+Break every rule 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams, Missing you, Whatever you want, Nebraska, Atlantic City, State Trooper] 
+Typical Male 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams, Missing you, Whatever you want, Nebraska, Atlantic City, State Trooper, Break every rule] 
+Two people 
+[Born to run, Thunder Road, Night, Private dancer, Been Queen, Love Got, Nos sobran los motivos, Que se llama Soledad, Contigo, La voce del padrone, Bandiera bianca, Sentimiento nuevo, Wrecking Ball, We are alive, American Land, Foreign Affair, The Best, Steamy Windows, Hierro Forjado, Vida en diagonal, Hey Joe, Patriots, Venezia-Istambul, Le Aquile, The river, Jackson Cage, Hungry Heart, Wildest dreams, Missing you, Whatever you want, Nebraska, Atlantic City, State Trooper, Break every rule, Typical Male] 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml2010.xml 
+contamos con 1 discos 
+disco 0 
+idiomas escogidos: es it de 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1994.xml 
+contamos con 1 discos 
+disco 0 
+idiomas escogidos: es it de 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1990.xml 
+contamos con 1 discos 
+disco 0 
+idiomas escogidos: es it de 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1995.xml 
+contamos con 1 discos 
+disco 0 
+idiomas escogidos: es it de 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1993.xml 
+contamos con 1 discos 
+disco 0 
+idiomas escogidos: es it de 
+estamos en el fichero: 
+http://gssi.det.uvigo.es/users/agil/public_html/SINT/18-19/iml1992.xml 
+contamos con 1 discos 
+disco 0 
+idiomas escogidos: es it de 
+contamos con canciones: 36 
+CRITICO longitud lista canciones: 36 

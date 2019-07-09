@@ -1,0 +1,116 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:simpleType name="idioma">
+	    <xs:restriction base="xs:string"> 
+	      <xs:pattern value="[A-Za-z]{2}"/>
+	    </xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="listaidiomas">
+	  <xs:list itemType="idioma"/>
+	</xs:simpleType>
+
+	<xs:element name = "Songs">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name = "Anio">
+					<xs:simpleType>
+						<xs:restriction base = "xs:integer">
+							<xs:minInclusive value = "1900"/>
+							<xs:maxInclusive value = "2018"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name = "Pais" maxOccurs = "unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name = "Disco" maxOccurs = "unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name = "Titulo" type = "xs:string"/>
+										<xs:element name = "Premios" minOccurs = "0" maxOccurs = "unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name = "Premio" maxOccurs = "unbounded">
+														<xs:simpleType>
+															<xs:restriction base = "xs:string">
+																<xs:enumeration value = "DiscoDeOro"/>
+																<xs:enumeration value = "Grammy"/>
+																<xs:enumeration value = "LamparaMinera"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name = "Interprete" type = "xs:string"/>
+										<xs:element name = "Cancion" maxOccurs = "unbounded">
+											<xs:complexType mixed = "true">
+												<xs:sequence>
+													<xs:element name = "Titulo" type = "xs:string"/>
+													<xs:element name = "Duracion">
+														<xs:simpleType>
+															<xs:restriction base = "xs:integer">
+																<xs:minInclusive value = "0"/>
+																<xs:maxInclusive value = "600"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name = "Genero">
+														<xs:simpleType>
+															<xs:restriction base = "xs:string">
+																<xs:enumeration value = "Pop"/>
+																<xs:enumeration value = "Rock"/>
+																<xs:enumeration value = "Country"/>
+																<xs:enumeration value = "Balada"/>
+															</xs:restriction>
+														</xs:simpleType>
+													</xs:element>
+													<xs:element name = "Version" minOccurs = "0">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:choice>
+																	<xs:element name = "Titulo" type = "xs:string"/>
+																	<xs:element name = "Idc" type = "xs:string"/>
+																</xs:choice>
+																<xs:element name = "IML" type = "xs:string"/>
+															</xs:sequence>
+															<xs:attribute name = "anio">
+																<xs:simpleType>
+																	<xs:restriction base = "xs:integer">
+																		<xs:minInclusive value = "0"/>
+																	</xs:restriction>
+																</xs:simpleType>
+															</xs:attribute>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>												
+												<xs:attribute name = "idc">
+													<xs:simpleType>
+														<xs:restriction base = "xs:string">
+															<xs:pattern value = "[0-9][0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9]"/>
+														</xs:restriction>
+													</xs:simpleType>
+												</xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name = "idd">
+										<xs:simpleType>
+											<xs:restriction base = "xs:string">
+												<xs:pattern value = "[0-9][0-9][0-9][0-9]-[0-9][0-9][0-9]-[0-9][0-9][0-9]"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:attribute>									
+									<xs:attribute name="langs" type="listaidiomas"/>				
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name = "pais" type = "xs:string"/>
+						<xs:attribute name = "lang" type = "idioma"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
